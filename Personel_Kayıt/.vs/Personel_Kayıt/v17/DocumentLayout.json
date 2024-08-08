@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|c:\\users\\mcana\\desktop\\personel_kay\u0131t\\personel_kay\u0131t\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|solutionrelative:personel_kay\u0131t\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\personel_kay\u0131t\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|solutionrelative:personel_kay\u0131t\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\personel_kay\u0131t\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA7657-371C-46AF-8868-5D7D9D3E7ABA}|Personel_Kay\u0131t\\Personel_Kay\u0131t.csproj|solutionrelative:personel_kay\u0131t\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Personel_Kay\u0131t\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmGrafikler.cs",
+              "RelativeToolTip": "Personel_Kay\u0131t\\FrmGrafikler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABQAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:24:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "RelativeToolTip": "Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:22:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kay\u0131t\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\mcana\\Desktop\\Personel_Kay\u0131t\\Personel_Kay\u0131t\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Personel_Kay\u0131t\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:07:21.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

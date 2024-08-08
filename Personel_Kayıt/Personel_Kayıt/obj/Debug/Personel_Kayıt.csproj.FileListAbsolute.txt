@@ -1,0 +1,15 @@
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\bin\Debug\Guna.UI2.dll
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel.26057A15.Up2Date
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Frmİstatistik.resources
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmAnaForm.resources
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGrafikler.resources
+C:\Users\mcana\Desktop\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.FrmGiris.resources
